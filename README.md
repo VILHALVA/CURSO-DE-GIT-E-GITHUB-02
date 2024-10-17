@@ -1,6 +1,5 @@
-# CURSO DE GIT E GITHUB 02
-* 👨‍⚖️O GIT É UM SISTEMA DE CONTROLE DE VERSÃO DISTRIBUÍDO, ENQUANTO O GITHUB É UMA PLATAFORMA DE HOSPEDAGEM DE CÓDIGO QUE UTILIZA O GIT. 
-* 👨‍💻NESSE CURSO VOCÊ IRÁ APRENDER A GERENCIAR O GIT VIA TERMINAL/CMD.
+# CURSO DE GIT E GITHUB 
+👨‍⚖️O GIT É UM SISTEMA DE CONTROLE DE VERSÃO DISTRIBUÍDO, ENQUANTO O GITHUB É UMA PLATAFORMA DE HOSPEDAGEM DE CÓDIGO QUE UTILIZA O GIT. 
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
@@ -29,8 +28,6 @@ O GitHub, por outro lado, é uma plataforma de hospedagem de repositórios Git n
 
 4. **Forks:** Você pode fazer um fork de um repositório existente no GitHub, criando assim sua própria cópia do projeto. Isso é útil quando você deseja contribuir para um projeto de código aberto.
 
-Em resumo, o Git é o sistema de controle de versão que você usa localmente em seu computador para rastrear e gerenciar alterações em seu código, enquanto o GitHub é uma plataforma que fornece hospedagem na nuvem para repositórios Git, além de recursos adicionais para colaboração, gerenciamento de projeto e compartilhamento de código. Juntos, eles formam uma ferramenta poderosa para o desenvolvimento de software colaborativo e controle de versão.
-
 ## CARACTERISTICAS:
 ### GIT:
 #### POSITIVAS:
@@ -54,8 +51,6 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 - **Configuração Inicial Pode Ser Detalhada:** Configurações iniciais e a compreensão de conceitos como "staging" podem ser detalhadas para novos usuários.
 
 - **Gerenciamento Manual de Dependências:** O Git por si só não gerencia dependências externas, o que pode ser uma consideração em projetos mais complexos.
-
----
 
 ### GITHUB:
 #### POSITIVAS:
@@ -83,7 +78,10 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 - **Aprendizado Adicional para Recursos Avançados:** Aproveitar totalmente os recursos avançados do GitHub pode exigir um tempo de aprendizado adicional para os usuários.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "TIAGO MATOS"](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- ["USANDO A INTERFACE" FOI CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+- ["USANDO O TERMINAL" FOI CRIADO PELO "TIAGO MATOS"](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- [VEJA O APÊNDICE](./APENDICE.md)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO GIT](https://git-scm.com/doc)
 - [VEJA A DOCUMENTAÇÃO DO GITHUB](https://docs.github.com/pt)
+- [TREINE OS COMANDOS DO GIT](https://learngitbranching.js.org/?locale=pt_BR) 
